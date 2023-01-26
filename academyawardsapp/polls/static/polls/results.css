@@ -1,0 +1,13 @@
+header {
+    font-size: 3.5vw;
+}
+
+#vote_again {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    
+    padding: 15px 2px;
+    width: 100vw;
+    font-size: 23px; 
+}
